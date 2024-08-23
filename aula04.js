@@ -37,8 +37,8 @@ function nomeIdade(nome, idade){
     return ` Meu nome é ${nome} e minha idade é ${idade}`
 }
 // A ordem dos parâmetros é importante!!
-imprimeTexto(nomeIdade("André", 17))
-imprimeTexto(nomeIdade(18, "Kauani"))
+imprimeTexto(nomeIdade("Leonardo", 17))
+imprimeTexto(nomeIdade(18, "Leonardo"))
 
 imprimeTexto(multiplicacao())
 // Você pode definir um parâmetro inicial para sua função!
