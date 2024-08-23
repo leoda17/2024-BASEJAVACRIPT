@@ -27,7 +27,7 @@ console.log(idadeCliente >= IdadeMinima ? "cerveja" : "agua")
 
 //Template string
 
-const name = "Eduardo Reis";
+const name = "Leonardo";
 const idade = 17;
 const cidadeNatal = "sanjuan"
 
