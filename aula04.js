@@ -38,7 +38,7 @@ function nomeIdade(nome, idade){
 }
 // A ordem dos parâmetros é importante!!
 imprimeTexto(nomeIdade("Leonardo", 17))
-imprimeTexto(nomeIdade(18, "Leonardo"))
+imprimeTexto(nomeIdade(18, "Eduardo"))
 
 imprimeTexto(multiplicacao())
 // Você pode definir um parâmetro inicial para sua função!
